@@ -11,6 +11,7 @@ Specifically, for this exercise there were two tables created. One to see the co
 
 
 ### Analysis of Outcomes Based on Launch Date
+![Outcomes VS Launch TABLE](https://github.com/ahualoh/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Launch_TABLE.png)
 
 ![Outcomes VS Launch](https://github.com/ahualoh/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
@@ -21,6 +22,7 @@ Using the "pivot table" tool in excel, the table was created with the "parent ca
 (The "Year" field was newly added to the original Kickstarter Data Table as a new column using the "YEAR" forumula)
 
 ### Analysis of Outcomes Based on Goals
+![Outcomes VS Launch TABLE](https://github.com/ahualoh/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals_TABLE.png)
 
 ![Outcomes VS Goals](https://github.com/ahualoh/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
