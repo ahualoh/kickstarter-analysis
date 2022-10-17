@@ -12,7 +12,7 @@ Specifically, for this exercise there were two tables created. One to see the co
 
 ### Analysis of Outcomes Based on Launch Date
 
-<insert/link to screenshot of Theater Outcomes Based on Launch>
+![Outcomes VS Launch](https://github.com/ahualoh/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 This was a pivot table and line chart created so that we can observe the outcomes of a campaign category over time, in partiular, this screenshot is displaying the 'theater' parent category (from all years).
 
@@ -22,7 +22,7 @@ Using the "pivot table" tool in excel, the table was created with the "parent ca
 
 ### Analysis of Outcomes Based on Goals
 
-<insert/link to screenshot of Outcomes vs Goals>
+![Outcomes VS Goals](https://github.com/ahualoh/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 This was table manually created so that we can observe the percentages of campaign outcomes compared by their goals. 
 
